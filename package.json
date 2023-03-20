@@ -1,0 +1,20 @@
+{
+  "name": "yoru-djs-bot",
+  "version": "1.0.0",
+  "description": "bot for FoxHive Discord Server with admin permissions update done by m1n199honey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxHive-Discord-Bots/yoru-djs-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoxHive-Discord-Bots/yoru-djs-bot/issues"
+  },
+  "homepage": "https://github.com/FoxHive-Discord-Bots/yoru-djs-bot#readme"
+}
